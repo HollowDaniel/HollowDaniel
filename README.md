@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HollowDaniel
-- 👀 I’m interested in Video Games, Shoes, Software Engineering
-- 🌱 I’m currently learning Python and DataScience
+- 👀 I’m interested inc
+- 🌱 I’m currently learning c
 
 
 <!---
