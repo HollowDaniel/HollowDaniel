@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @HollowDaniel
-- 👀 I’m interested inc
-- 🌱 I’m currently learning c
+- 👋 Hi, I’m @lietzdaniel
+- 👀 I’m interested in Machine Learning, Data Visualisation, IT Security
+- 🌱 I’m currently learning C++
 
 
 <!---
