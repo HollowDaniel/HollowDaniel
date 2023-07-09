@@ -1,7 +1,8 @@
 # Hi, I’m Daniel
 
-I am a Software Engineer, currently learning Rust 🦀.
+I am a Software Engineer, currently learning Rust 🦀 and Chess ♟️.
 Working on multiple projects, this page will be more filled soon.
+
 
 
 <!---
