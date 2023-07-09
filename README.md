@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @lietzdaniel
-- 👀 I’m interested in Machine Learning, Data Visualisation, IT Security
-- 🌱 I’m currently learning C++
+# Hi, I’m Daniel
+
+I am a Software Engineer, currently learning Rust 🦀.
+Working on multiple projects, this page will be more filled soon.
 
 
 <!---
